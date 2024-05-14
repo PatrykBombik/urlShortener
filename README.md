@@ -31,7 +31,7 @@ To use URL Shortener, run the following command:
     npm start
     ```
 
-Now, you can access the URL Shortener at http://localhost:3000.  
+Now, you can access the URL Shortener at http://localhost:5000.  
 Contributing
 Contributions are welcome! Please read the contributing guide to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to URL Shortener.  
 License
